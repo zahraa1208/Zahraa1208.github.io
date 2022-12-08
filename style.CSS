@@ -76,7 +76,7 @@ header a :hover{
 /*showcase*/
 #showcase{
   min-height: 400px;
-  background : url('../images/display.jpg') no-repeat;
+  background : url('https://zahraa1208.github.io/photocomp/display.jpg') no-repeat;
   text-align: center;
   color: #FFF7E9;
   background-size: cover;
